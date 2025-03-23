@@ -28,7 +28,13 @@ Choco Delight is a premium chocolate brand aiming to analyze its sales performan
 This **Choco Delight Data Analysis Project** provided valuable insights into sales trends and helped optimize business strategies. The interactive dashboard serves as a powerful tool for tracking sales performance and making informed decisions.
 
 ---
-**Developed Using:** Microsoft Excel | Pivot Tables | Data Visualization | Analysis
+
+## Skills & Tools Used
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFD700?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 
 
 
