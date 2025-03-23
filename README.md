@@ -11,6 +11,9 @@ Choco Delight is a premium chocolate brand aiming to analyze its sales performan
 - Understand the **yearly sales trend**.
 - Help the business optimize sales and inventory management.
 
+## Project Detail
+I have analysed the given [data](https://1drv.ms/x/c/345c722944feb19c/EW8XHa3iSphDmiW4DVn8LisBl_oM7cpXmdiJg5ifJSe4KA?e=sCQMJ1) of Choco-Delight Enterprise and used pivot tables to create a well-looking [dashboard](https://1drv.ms/x/c/345c722944feb19c/EWigUbvsNK5IlhDo_3qL9RYBvPlVUgZvJGKkGe-rgMpxtQ?e=PLr6az) and below is the section of findings about the insights i gathered with the help of this dashboard
+
 ## Key Findings
 - **Total Revenue:** ₹750.18 Crores (~7.5 Billion INR).
 - **Total Boxes Sold:** 669,020 units.
@@ -31,6 +34,7 @@ This **Choco Delight Data Analysis Project** provided valuable insights into sal
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFD700?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-FF5733?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
