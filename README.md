@@ -35,7 +35,7 @@ This **Choco Delight Data Analysis Project** provided valuable insights into sal
 
 ---
 ## Author - Sam Arnon
-- **LinkedIn**: [Connect with me professionally][![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnon15acto)
+- Connect with me professionally at [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnon15acto)
 
 Thank you, and I look forward to connecting with you!
 
