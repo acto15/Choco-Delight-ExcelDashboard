@@ -12,7 +12,7 @@ Choco Delight is a premium chocolate brand aiming to analyze its sales performan
 - Help the business optimize sales and inventory management.
 
 ## Project Detail
-I have analysed the given [data](https://1drv.ms/x/c/345c722944feb19c/EW8XHa3iSphDmiW4DVn8LisBl_oM7cpXmdiJg5ifJSe4KA?e=sCQMJ1) of Choco-Delight Enterprise and used pivot tables to create a well-looking [dashboard](https://1drv.ms/x/c/345c722944feb19c/EWigUbvsNK5IlhDo_3qL9RYBvPlVUgZvJGKkGe-rgMpxtQ?e=PLr6az) and below is the section of findings about the insights i gathered with the help of this dashboard
+I have analysed the given [data](https://1drv.ms/x/c/345c722944feb19c/EQIbz68z6etApWLXG77acYUB96kCfJXnyHEHR-clTpkRDg?e=cThgwQ) of Choco-Delight Enterprise and used pivot tables to create a well-looking [dashboard](https://1drv.ms/x/c/345c722944feb19c/ERRd5eWVLX9HoUZBSEDz3NAB4yLwiibwLq-7VQdVrz2dnw?e=iKbs7y) and below is the section of findings about the insights i gathered with the help of this dashboard
 
 You may also view it by clicking on the project excel file that i have attached and it is just a read-only file, if the password is asked when opened then kindly click on read-only.
 
