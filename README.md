@@ -26,10 +26,10 @@ You can use the dataset and try it for yourself.
 - **Revenue Trend:** The dataset includes sales for **2023**, with steady performance across the year.
 
 ## Business Impact
- **Increased Sales**: Identified best-selling products to boost marketing efforts.
- **Market Expansion**: Insights into country-wise performance helped in focusing on high-growth markets.
- **Optimized Inventory**: Understanding top-performing products helped reduce stock shortages.
- **Improved Decision-Making**: The dashboard enabled data-driven sales strategies.
+- **Increased Sales**: Identified best-selling products to boost marketing efforts.
+- **Market Expansion**: Insights into country-wise performance helped in focusing on high-growth markets.
+- **Optimized Inventory**: Understanding top-performing products helped reduce stock shortages.
+- **Improved Decision-Making**: The dashboard enabled data-driven sales strategies.
 
 ## Conclusion
 This **Choco Delight Data Analysis Project** provided valuable insights into sales trends and helped optimize business strategies. The interactive dashboard serves as a powerful tool for tracking sales performance and making informed decisions.
@@ -43,7 +43,7 @@ This **Choco Delight Data Analysis Project** provided valuable insights into sal
 
 ---
 ## Author - Sam Arnon
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/arnon15acto/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/samarnon-dataanalyst/)
 
 Thank you, and I look forward to connecting with you!
 
